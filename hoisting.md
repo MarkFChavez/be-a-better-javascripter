@@ -1,6 +1,7 @@
 ### hoisting
 
-- it places all vars at the top of the function scope.
+- it places all `var` at the top of the function scope.
+- it is very important to understand how hoisting works. please always keep this in mind.
 
 ```
 // before hoisting
